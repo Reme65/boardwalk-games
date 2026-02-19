@@ -27,6 +27,7 @@ h3 {
 .sub-heading-color {
     color: var(--highlight-color);
 }
+
 /* grid visualisation CSS for testing */
 
 .container,
