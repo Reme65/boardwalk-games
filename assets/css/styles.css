@@ -69,13 +69,15 @@ h2 {
 #services .card {
     margin-bottom: 1.5rem;
 }
+
 /* Game library cards */
 
 #new-games .card,
 #fav-games .card {
     border: none;
 }
-/* /Footer/Contact section */
+
+/* Footer / contact */
 
 #contact {
     background-color: var(--primary-color);
@@ -107,7 +109,6 @@ h2 {
     color: var(--secondary-color);
 }
 
-
 /* grid visualisation CSS for testing */
 
 /* .container,
@@ -119,7 +120,8 @@ h2 {
     border: 2px solid white;
     background-color: lightgray;
 } */
- /* Media queries */
+
+/* Media queries */
 
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
